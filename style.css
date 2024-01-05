@@ -1,0 +1,44 @@
+body {
+    font-family:"ヒラギノ角ゴpro W6","メイリオ","MS Pゴシック";
+
+}
+
+h1 {
+    border-left: 10px solid red;
+    background-color:#EEEEEE;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    width: 500px;
+}
+
+.con{
+    width: 500px;
+    background-color: #EEEEEE;
+    margin: 0 auto;
+    border: solid 3px #F5F5F5;
+    border-radius: 10px;
+}
+
+div {
+    padding: 20px;
+}
+
+.tex, .to, .pull {
+    border: 1px solid #CCCCCC;
+    background-color: #FFFFFF;
+    color: #BBBBBB;
+    padding: 10px;
+}
+
+.sub {
+    background-color:#BBBBBB;
+    color: #FFF;
+    border: 1px lightgrey solid;
+    border-radius: 5px;
+    border-bottom: gray 3px solid;
+
+}
